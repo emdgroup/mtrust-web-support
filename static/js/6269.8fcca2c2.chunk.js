@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkweb_support=self.webpackChunkweb_support||[]).push([[6269],{6269:(e,s,t)=>{t.r(s),t.d(s,{ld_tabpanellist:()=>c});var a=t(4060);const c=class{constructor(e){(0,a.r)(this,e)}render(){return(0,a.h)(a.H,{key:"c54ee5287d113020ae61cee6d570e76991ce48e0",class:"ld-tabpanellist"},(0,a.h)("slot",{key:"a848c1107a0b06ca399e9e15f6b7e149d1db6738"}))}};c.style=""}}]);
+//# sourceMappingURL=6269.8fcca2c2.chunk.js.map

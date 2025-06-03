@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkweb_support=self.webpackChunkweb_support||[]).push([[533],{533:(e,a,s)=>{s.r(a),s.d(a,{ld_tabpanel:()=>c});var t=s(4060);const c=class{constructor(e){(0,t.r)(this,e)}render(){return(0,t.h)(t.H,{key:"0217803ee8394a493a0c6970c3d3b7d70f0602fd",role:"tabpanel",class:"ld-tabpanel",tabindex:"-1"},(0,t.h)("slot",{key:"f2fb2aadcd78a2447f14b6f8f2c01c54a84add8e"}))}};c.style=""}}]);
+//# sourceMappingURL=533.ad6a691a.chunk.js.map
